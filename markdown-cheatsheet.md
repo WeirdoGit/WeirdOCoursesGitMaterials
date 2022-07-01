@@ -1,6 +1,6 @@
 # Markdown cheatsheet
 
-_(Also see [weirdocourses][], the markdown parser created by the author of this cheatsheet)_
+_(Also see [weirdocourses][], created by the author of this cheatsheet)_
 
 ## Table of contents
 
